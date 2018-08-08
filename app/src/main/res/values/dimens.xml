@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="LinearLayout_margin_top">20dp</dimen>
+    <dimen name="LinearLayout_margin_left">10dp</dimen>
+    <dimen name="button_width_height">40dp</dimen>
+    <dimen name="supplier_margin_top">25dp</dimen>
+    <dimen name="supplier_details_margin_top">15dp</dimen>
+    <dimen name="supplier_contact_margin_left">10dp</dimen>
+    <dimen name="supplier_name_margin_left">22dp</dimen>
+    <dimen name="edit_price_margin_left">40dp</dimen>
+    <dimen name="edit_uses_margin_left">40dp</dimen>
+    <dimen name="edit_name_margin_left">12dp</dimen>
+    <dimen name="list_item_quantity">60dp</dimen>
+    <dimen name="list_item_adding_margin">16dp</dimen>
+    <dimen name="CategoryStyle_width">0dp</dimen>
+    <dimen name="CategoryStyle_weight">1</dimen>
+    <dimen name="relative_layout_height">200dp</dimen>
+    <dimen name="activity_catalog_text_paddingTop">16dp</dimen>
+    <dimen name="text_2_paddingTop">8dp</dimen>
+    <dimen name="text_3_paddingTop">8dp</dimen>
+
+
+</resources>
